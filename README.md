@@ -38,11 +38,11 @@ app.js         // Runs the application
 
 
  ## Results Screenshots:
-![Screenshot1](Screenshots/test_result.png)
+![Screenshot1](screenshots/test_result.png)
 
-![Screenshot2](Screenshots/creating_team_profile.png)
+![Screenshot2](screenshots/creating_team_profile.png)
 
-![Screenshot3](Screenshots/Team.png)
+![Screenshot3](screenshots/Team.png)
 
 
 
